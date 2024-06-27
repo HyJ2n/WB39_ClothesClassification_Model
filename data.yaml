@@ -1,0 +1,22 @@
+path: C:/Users/user/Desktop/Yolo8_CODE/dataset  # 데이터셋이 있는 디렉토리로 경로 설정
+
+train: C:/Users/user/Desktop/Yolo8_CODE/datasets/images/train
+val: C:/Users/user/Desktop/Yolo8_CODE/datasets/images/valid
+
+nc: 13
+
+names:
+  0:  'longsleevedress'
+  1:  'longsleeveoutwear'
+  2:  'longsleevetop'
+  3:  'shorts'
+  4:  'shortsleevedress'
+  5:  'vestdress'
+  6:  'shortsleevetop'
+  7:  'skirt'
+  8:  'sling'
+  9:  'slingdress'
+  10: 'trousers'
+  11: 'vest'
+  12: 'vestdress'
+ 
