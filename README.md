@@ -2,7 +2,7 @@ We have relearned a model that distinguishes the type of clothing with the yolov
 You need a dataset for the type of clothes.
 
 
-# 클래스 목록
+클래스 목록
 names:
   0:  'dress'
   1:  'longsleevetop'
