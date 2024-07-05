@@ -2,6 +2,15 @@ We have relearned a model that distinguishes the type of clothing with the yolov
 You need a dataset for the type of clothes.
 
 
-Data Name : 
-'longsleevedress' , 'longsleeveoutwear' , 'longsleevetop' , 'shorts' , 'shortsleevedress' , 'vestdress' , 'shortsleevetop' , 'skirt' , 'sling' , 'slingdress' ,'trousers' ,'vest' , 'vestdress'
+# 클래스 목록
+names:
+  0:  'dress'
+  1:  'longsleevetop'
+  2:  'shortsleevetop'
+  3:  'vest'
+  4:  'shorts'
+  5:  'pants'
+  6:  'skirt'
+
+
  
